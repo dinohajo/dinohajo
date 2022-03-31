@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dinohajo
-- 👀 I’m interested in Science Fiction
-- 🌱 I’m currently learning Business Process Intelligence
+- 👀 I’m interested in Science (Fiction)
+- 🌱 I’m currently learning Process Mining
 - 💞️ I’m looking to collaborate on the Foundation -I.A. ;)
 - 📫 How to reach me ...
 
